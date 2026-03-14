@@ -43,8 +43,8 @@ Open index.html in your browser.
 
 For testing purposes:
 
-Username: admin
-Password: 1234
+Username: koushik
+Password: koushik123
 📸 Screenshot
 
 You can add a screenshot of the login page here.
