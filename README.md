@@ -45,9 +45,7 @@ For testing purposes:
 
 Username: koushik
 Password: koushik123
-📸 Screenshot
 
-You can add a screenshot of the login page here.
 
 📌 Future Improvements
 
